@@ -2,10 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="250px">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Heshani+Munasinghe;Frontend+Developer;Full+Stack+%7C+Mobile+App+%7C+Data+Tech+Enthusiast" />
-</p>
-
 <h3 align="center">Developer from Sri Lanka | Passionate about Web, Mobile & Data</h3>
 
 <p align="center">
